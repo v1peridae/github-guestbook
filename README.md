@@ -1,7 +1,7 @@
 # Whatchu think about my account? Or do you just wanna say hi?
 - This is a guestbook, where ppl can leave comments for me to read. I like doing stuff like this lol.
 
-# How To Say Hi?
+## How To Say Hi?
 - Fork this repo
 - Add your comment in the section below in the format
   ```(Date) Name / Pseudonym : Comment```
@@ -10,9 +10,9 @@
 - Make a pull request !
 
 
-# Comments 🎍 
-<div align = center>
-<!-->Input here !!<-->
+## Comments 🎍 
+<div align = left>
+<!--Input here !!-->
 (16/09/24) Louisa : Nya :333 
 
 
